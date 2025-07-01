@@ -12,7 +12,7 @@ int main() {
   for (int n = 1; n <= num2; n++) {
     sum = sum + num1;
   }
-  stdout.writeln("Multiplication is : ${sum}");
+  stdout.writeln("Multiplicationis : ${sum}");
 
   return 0;
 }
